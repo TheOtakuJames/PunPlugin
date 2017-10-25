@@ -1,0 +1,9 @@
+name: PunPoints
+author: TheOtakuJames
+version: 1.0
+main: com.punplugin.Main
+commands:
+  pun:
+    description: >
+  puns:
+    description: >
